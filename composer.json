@@ -10,6 +10,13 @@
         "rest",
         "swagger"
     ],
+    "repositories": {
+      "lendiodevs/goldspecdigital-oooas-fork": {
+        "type": "vcs",
+        "no-api": true,
+        "url": "https://github.com/LendioDevs/goldspecdigital-oooas-fork.git"
+      }
+    },
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -22,8 +29,8 @@
         "php": "^8.0",
         "ext-json": "*",
         "doctrine/dbal": "^2.6|^3.0",
-        "goldspecdigital/oooas": "^2.7.1",
         "laravel/framework": "5.8.*|^6.0|^7.0|^8.0|^9.0|^10.0",
+        "lendiodevs/goldspecdigital-oooas-fork": "^1.0",
         "phpdocumentor/reflection-docblock": "^5.0"
     },
     "require-dev": {
