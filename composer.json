@@ -29,7 +29,7 @@
         "php": "^8.0",
         "ext-json": "*",
         "doctrine/dbal": "^2.6|^3.0",
-        "laravel/framework": "5.8.*|^6.0|^7.0|^8.0|^9.0|^10.0",
+        "laravel/framework": "5.8.*|^6.0|^7.0|^8.0|^9.0|^10.0|^11.0",
         "lendiodevs/goldspecdigital-oooas-fork": "1.0.1",
         "phpdocumentor/reflection-docblock": "^5.0"
     },
